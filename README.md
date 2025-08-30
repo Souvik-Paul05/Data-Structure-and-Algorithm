@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithm
-Basic to Advanced
+  - In this Repositry you can get all the Basic to Moderate DSA Code and Concept.
 ## Topic :
      1. Linked List
      2. Stack
